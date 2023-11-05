@@ -1,4 +1,4 @@
-# CFPA Music Technology Handbook 2023-2024
+# CFPA Music Technology Textbook
 
 This online textbook is a living compilation of learning material useful for participating in the CFPA Music Tech program.
 
