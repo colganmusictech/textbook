@@ -15,5 +15,3 @@ Learning material for the CFPA Music Technology program at Colgan High School
 1. Production
     1. Topic 1
     1. Topic 2
-
-Deployed by github-bot
